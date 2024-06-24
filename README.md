@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @mistabaaz
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in "exploring new things"
 
 <!---
 mistabaaz/mistabaaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
